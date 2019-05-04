@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<metadata>
+<idinfo>
+  <citation>
+    <citeinfo>
+      <origin>Alberta Energy Regulator</origin>
+      <origin>Alberta Geological Survey</origin>
+      <origin>Prior, G.J.</origin>
+      <origin>Hathway, B.</origin>
+      <origin>Glombick, P.M.</origin>
+      <origin>Pana, D.I.</origin>
+      <origin>Banks, C.J.</origin>
+      <origin>Hay, D.C.</origin>
+      <origin>Schneider, C.L.</origin>
+      <origin>Grobe, M.</origin>
+      <origin>Elgr, R.</origin>
+      <origin>Weiss, J.A.</origin>
+      <pubdate>201306</pubdate>
+      <title>Bedrock Geology of Alberta (GIS data, polygon features)</title>
+      <geoform>vector digital data</geoform>
+      <serinfo>
+        <sername>Digital Data</sername>
+        <issue>DIG 2013-0018</issue>
+      </serinfo>
+      <pubinfo>
+        <pubplace>Edmonton, Alberta, Canada</pubplace>
+        <publish>Alberta Geological Survey</publish>
+      </pubinfo>
+      <onlink>http://www.ags.gov.ab.ca/publications/DIG/ZIP/DIG_2013_0018.zip</onlink>
+    </citeinfo>
+  </citation>
+  <descript>
+    <abstract>This GIS dataset is part of a digital compilation of the bedrock geology of Alberta. It is one of the datasets used to produce Alberta Geological Survey (AGS) Map 600. 
+This dataset represents the compilation of existing geological maps and original geological mapping by AGS staff. Mapping in support of the dataset included field observations and creating three-dimensional models of subsurface stratigraphy based on the interpretation of geophysical logs from oil and gas wells. Each three-dimensional formation surface was projected to a model of the bedrock surface, and the intersection formed the first approximation of the position of the geological contact at the base of the surficial deposits. We adjusted these preliminary contacts to honour outcrop data and the interpretation of the bedrock unit immediately below surficial deposits in individual wells.
+The data were created in geodatabase format and output for public distribution in shapefile format.
+AGS Open File Report 2013-02 presents additional information on data sources related to this dataset.</abstract>
+    <purpose>To update the bedrock geology of Alberta on a provincial scale and to use this information in a geographic information system.</purpose>
+    <supplinf>Language: In English.</supplinf>
+  </descript>
+  <timeperd>
+    <timeinfo>
+      <rngdates>
+        <begdate>2010</begdate>
+        <enddate>20130331</enddate>
+      </rngdates>
+    </timeinfo>
+    <current>ground condition</current>
+  </timeperd>
+  <status>
+    <progress>Complete</progress>
+    <update>None planned</update>
+  </status>
+  <spdom>
+    <bounding>
+      <westbc>-120</westbc>
+      <eastbc>-110.004765</eastbc>
+      <northbc>60.000193</northbc>
+      <southbc>48.996882</southbc>
+    </bounding>
+  </spdom>
+  <keywords>
+    <theme>
+      <themekt>none</themekt>
+      <themekey>athabasca basin</themekey>
+      <themekey>battle formation</themekey>
+      <themekey>bedrock geology</themekey>
+      <themekey>belly river group</themekey>
+      <themekey>canadian shield</themekey>
+      <themekey>colorado group</themekey>
+      <themekey>devonian</themekey>
+      <themekey>dunvegan formation</themekey>
+      <themekey>fort st. john group</themekey>
+      <themekey>geology</themekey>
+      <themekey>gis data</themekey>
+      <themekey>mannville group</themekey>
+      <themekey>scollard formation</themekey>
+      <themekey>smoky group</themekey>
+    </theme>
+    <theme>
+      <themekt>ISO 19115 Topic Category</themekt>
+      <themekey>geoscientificInformation</themekey>
+    </theme>
+    <place>
+      <placekt>none</placekt>
+      <placekey>72e</placekey>
+      <placekey>72l</placekey>
+      <placekey>72m</placekey>
+      <placekey>73d</placekey>
+      <placekey>73e</placekey>
+      <placekey>73l</placekey>
+      <placekey>73m</placekey>
+      <placekey>74d</placekey>
+      <placekey>74e</placekey>
+      <placekey>74l</placekey>
+      <placekey>74m</placekey>
+      <placekey>82g</placekey>
+      <placekey>82h</placekey>
+      <placekey>82i</placekey>
+      <placekey>82j</placekey>
+      <placekey>82n</placekey>
+      <placekey>82o</placekey>
+      <placekey>82p</placekey>
+      <placekey>83a</placekey>
+      <placekey>83b</placekey>
+      <placekey>83c</placekey>
+      <placekey>83d</placekey>
+      <placekey>83e</placekey>
+      <placekey>83f</placekey>
+      <placekey>83g</placekey>
+      <placekey>83h</placekey>
+      <placekey>83i</placekey>
+      <placekey>83j</placekey>
+      <placekey>83k</placekey>
+      <placekey>83l</placekey>
+      <placekey>83m</placekey>
+      <placekey>83n</placekey>
+      <placekey>83o</placekey>
+      <placekey>83p</placekey>
+      <placekey>84a</placekey>
+      <placekey>84b</placekey>
+      <placekey>84c</placekey>
+      <placekey>84d</placekey>
+      <placekey>84e</placekey>
+      <placekey>84f</placekey>
+      <placekey>84g</placekey>
+      <placekey>84h</placekey>
+      <placekey>84i</placekey>
+      <placekey>84j</placekey>
+      <placekey>84k</placekey>
+      <placekey>84l</placekey>
+      <placekey>84m</placekey>
+      <placekey>84n</placekey>
+      <placekey>84o</placekey>
+      <placekey>84p</placekey>
+      <placekey>alberta</placekey>
+      <placekey>canada</placekey>
+    </place>
+  </keywords>
+  <accconst>Public</accconst>
+  <useconst>Credit to originator/source required. Commercial reproduction not allowed.</useconst>
+  <ptcontac>
+    <cntinfo>
+      <cntorgp>
+        <cntorg>Alberta Geological Survey</cntorg>
+        <cntper>Publications and Marketing Advisor</cntper>
+      </cntorgp>
+      <cntpos>Publications and Marketing Advisor</cntpos>
+      <cntaddr>
+        <addrtype>mailing and physical</addrtype>
+        <address>Alberta Energy Regulator</address>
+        <address>4th Floor, Twin Atria Building</address>
+        <address>4999-98 Avenue NW</address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <postal>T6B 2X3</postal>
+        <country>Canada</country>
+      </cntaddr>
+      <cntvoice>(780) 422-1927</cntvoice>
+      <cntfax>(780) 422-1918</cntfax>
+      <cntemail>AGS-Info@aer.ca</cntemail>
+      <hours>8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m.</hours>
+    </cntinfo>
+  </ptcontac>
+  <datacred>G.J. Prior and R. Elgr compiled and edited the data for 1 000 000 scale.</datacred>
+  <crossref>
+    <citeinfo>
+      <origin>Alberta Energy Regulator</origin>
+      <origin>Alberta Geological Survey</origin>
+      <origin>Prior, G.J.</origin>
+      <origin>Hathway, B.</origin>
+      <origin>Glombick, P.M.</origin>
+      <origin>Pana, D.I.</origin>
+      <origin>Banks, C.J.</origin>
+      <origin>Hay, D.C.</origin>
+      <origin>Schneider, C.L.</origin>
+      <origin>Grobe, M.</origin>
+      <origin>Elgr, R.</origin>
+      <origin>Weiss, J.A.</origin>
+      <pubdate>20130617</pubdate>
+      <title>Bedrock Geology of Alberta</title>
+      <geoform>map</geoform>
+      <serinfo>
+        <sername>Map</sername>
+        <issue>MAP 600</issue>
+      </serinfo>
+      <pubinfo>
+        <pubplace>Edmonton, Alberta, Canada</pubplace>
+        <publish>Alberta Geological Survey</publish>
+      </pubinfo>
+      <othercit>Scale 1:1000000, ISBN 978-1-4601-0096-7</othercit>
+      <onlink>http://www.ags.gov.ab.ca/publications</onlink>
+    </citeinfo>
+  </crossref>
+  <crossref>
+    <citeinfo>
+      <origin>Alberta Energy Regulator</origin>
+      <origin>Alberta Geological Survey</origin>
+      <origin>Prior, G.J.</origin>
+      <origin>Hathway, B.</origin>
+      <origin>Glombick, P.M.</origin>
+      <origin>Pana, D.I.</origin>
+      <origin>Banks, C.J.</origin>
+      <origin>Hay, D.C.</origin>
+      <origin>Schneider, C.L.</origin>
+      <origin>Grobe, M.</origin>
+      <origin>Elgr, R.</origin>
+      <origin>Weiss, J.A.</origin>
+      <pubdate>201306</pubdate>
+      <title>Bedrock Geology of Alberta (GIS data, line features)</title>
+      <geoform>vector digital data</geoform>
+      <serinfo>
+        <sername>Digital Data</sername>
+        <issue>DIG 2013-0019</issue>
+      </serinfo>
+      <pubinfo>
+        <pubplace>Edmonton, Alberta, Canada</pubplace>
+        <publish>Alberta Geological Survey</publish>
+      </pubinfo>
+      <onlink>http://www.ags.gov.ab.ca/publications</onlink>
+    </citeinfo>
+  </crossref>
+  <crossref>
+    <citeinfo>
+      <origin>Alberta Energy Regulator</origin>
+      <origin>Alberta Geological Survey</origin>
+      <origin>Prior, G.J.</origin>
+      <origin>Hathway, B.</origin>
+      <origin>Glombick, P.M.</origin>
+      <origin>Pana, D.I.</origin>
+      <origin>Banks, C.J.</origin>
+      <origin>Hay, D.C.</origin>
+      <origin>Schneider, C.L.</origin>
+      <origin>Grobe, M.</origin>
+      <origin>Elgr, R.</origin>
+      <origin>Weiss, J.A.</origin>
+      <pubdate>201306</pubdate>
+      <title>Bedrock Geology of Alberta, Structures (GIS data, polygon features)</title>
+      <geoform>vector digital data</geoform>
+      <serinfo>
+        <sername>Digital Data</sername>
+        <issue>DIG 2013-0020</issue>
+      </serinfo>
+      <pubinfo>
+        <pubplace>Edmonton, Alberta, Canada</pubplace>
+        <publish>Alberta Geological Survey</publish>
+      </pubinfo>
+      <onlink>http://www.ags.gov.ab.ca/publications</onlink>
+    </citeinfo>
+  </crossref>
+  <crossref>
+    <citeinfo>
+      <origin>Alberta Energy Regulator</origin>
+      <origin>Alberta Geological Survey</origin>
+      <origin>Prior, G.J.</origin>
+      <origin>Hathway, B.</origin>
+      <origin>Glombick, P.M.</origin>
+      <origin>Pana, D.I.</origin>
+      <origin>Banks, C.J.</origin>
+      <origin>Hay, D.C.</origin>
+      <origin>Schneider, C.L.</origin>
+      <origin>Grobe, M.</origin>
+      <origin>Elgr, R.</origin>
+      <origin>Weiss, J.A.</origin>
+      <pubdate>201306</pubdate>
+      <title>Bedrock Geology of Alberta, Structures (GIS data, line features)</title>
+      <geoform>vector digital data</geoform>
+      <serinfo>
+        <sername>Digital Data</sername>
+        <issue>DIG 2013-0021</issue>
+      </serinfo>
+      <pubinfo>
+        <pubplace>Edmonton, Alberta, Canada</pubplace>
+        <publish>Alberta Geological Survey</publish>
+      </pubinfo>
+      <onlink>http://www.ags.gov.ab.ca/publications</onlink>
+    </citeinfo>
+  </crossref>
+  <crossref>
+    <citeinfo>
+      <origin>Alberta Energy Regulator</origin>
+      <origin>Alberta Geological Survey</origin>
+      <origin>Prior, G.J.</origin>
+      <origin>Hathway, B.</origin>
+      <origin>Glombick, P.M.</origin>
+      <origin>Pana, D.I.</origin>
+      <origin>Banks, C.J.</origin>
+      <origin>Hay, D.C.</origin>
+      <origin>Schneider, C.L.</origin>
+      <origin>Grobe, M.</origin>
+      <origin>Elgr, R.</origin>
+      <origin>Weiss, J.A.</origin>
+      <pubdate>201306</pubdate>
+      <title>Bedrock Geology of Alberta, Meteorite Impact Structures (GIS data, polygon features)</title>
+      <geoform>vector digital data</geoform>
+      <serinfo>
+        <sername>Digital Data</sername>
+        <issue>DIG 2013-0022</issue>
+      </serinfo>
+      <pubinfo>
+        <pubplace>Edmonton, Alberta, Canada</pubplace>
+        <publish>Alberta Geological Survey</publish>
+      </pubinfo>
+      <onlink>http://www.ags.gov.ab.ca/publications</onlink>
+    </citeinfo>
+  </crossref>
+</idinfo>
+<dataqual>
+  <logic>This is a topologically correct dataset. There are no gaps, overlaps, or slivers between separately mapped areas and an effort was made to edge-match adjacent polygons between the source datasets. The level of detail varies across the dataset depending on the detail and scale of the source data used for Alberta Geological Survey Map 600. Some boundaries along river valleys were adjusted to logically follow the river channel.</logic>
+  <complete>This dataset represents the compilation of existing geological maps and original geological mapping by Alberta Geological Survey (AGS) staff. The representation of the Canadian Shield and Athabasca Basin is based on compilation. The geology of the Rocky Mountains and the Rocky Mountain Foothills is also the product of compilation with rare instances of new geological interpretation (e.g., the interpretation of bedrock geology beneath drift-filled valleys). The Devonian geology of northeastern Alberta is also largely a product of compilation with some reinterpretation based partly on field observations. The Cretaceous geology of the Plains throughout most of northern and east-central Alberta is based on new geological mapping of the Fort St. John Group, the Dunvegan Formation, the Smoky Group, the Mannville Group, the Colorado Group, and the Belly River Group. In addition, the Battle Formation (Cretaceous) and the Scollard Formation (Cretaceous-Paleogene) are based on new mapping north of Township 17 and east of Range 4, West of the 6th Meridian.
+The extents of upland gravel units south of 56° N are based upon GSC Map 22-1967, AGS Open File Report 1994-06, GSC Map NM-12-G, and AGS Map 601.
+The extents of upland gravel units north of 56° N (Clear Hills, Halverson Ridge and Caribou Mountains) are based upon field observations by AGS staff in 2011 and 2012.</complete>
+  <posacc>
+    <horizpa>
+      <horizpar>We estimate the positional accuracy of the dataset to be better than +/- 2000 m.</horizpar>
+    </horizpa>
+  </posacc>
+  <lineage>
+    <procstep>
+      <procdesc>To produce this dataset, we combined digital versions of 117 existing and several newly mapped areas into an Alberta-wide GIS dataset. We processed the data as follows:
+1. Collected and assessed input data. This involved collecting datasets from various sources, assessing quality, and standardizing the attribute table in the ArcGIS environment. When necessary, we corrected datasets that were digitized by third parties. 
+2. Created a standard provincial schema to house selected original and new map attributes.
+3. Merged input data into one seamless layer, edge-matched the boundaries.
+4. Generalized the dataset (reducing number of polygons) by eliminating small polygons not applicable to the 1 000 000-scale map and dissolved the boundaries between adjacent polygons representing the same geological unit. 
+5. Ran a topology check on the entire dataset to ensure no gaps, overlaps, slivers, or blank polygons were present.</procdesc>
+      <procdate>2013</procdate>
+    </procstep>
+  </lineage>
+</dataqual>
+<spdoinfo>
+  <direct>Vector</direct>
+  <ptvctinf>
+    <sdtsterm>
+      <sdtstype>G-polygon</sdtstype>
+      <ptvctcnt>1175</ptvctcnt>
+    </sdtsterm>
+  </ptvctinf>
+</spdoinfo>
+<spref>
+  <horizsys>
+    <geograph>
+      <geogunit>Decimal degrees</geogunit>
+      <latres>0.000000</latres>
+      <longres>0.000000</longres>
+    </geograph>
+    <geodetic>
+      <horizdn>North American Datum of 1983</horizdn>
+      <ellips>Geodetic Reference System 80</ellips>
+      <semiaxis>6378137.000000</semiaxis>
+      <denflat>298.257222</denflat>
+    </geodetic>
+  </horizsys>
+</spref>
+<eainfo>
+  <detailed>
+    <enttyp>
+      <enttypl>bdrk_py_ll.dbf</enttypl>
+      <enttypd>Feature attribute table</enttypd>
+      <enttypds>Alberta Geological Survey</enttypds>
+    </enttyp>
+    <attr>
+      <attrlabl>RGB</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Red, Green, Blue values for the polygon colours</attrdef>
+    </attr>
+    <attr>
+      <attrlabl>ColorGroup</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Abbreviation for the units occurring in each colour group</attrdef>
+    </attr>
+    <attr>
+      <attrlabl>Unit_Name</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Map unit name</attrdef>
+    </attr>
+    <attr>
+      <attrlabl>Lithology</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Primary rock classification of mapped unit</attrdef>
+    </attr>
+    <attr>
+      <attrlabl>Environ</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Environment in which the geological units were formed</attrdef>
+    </attr>
+    <attr>
+      <attrlabl>Age</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Abbreviated geological age</attrdef>
+    </attr>
+    <attr>
+      <attrlabl>GeolRegion</attrlabl>
+      <attrdefs>Alberta Geological Survey</attrdefs>
+      <attrdef>Location within Alberta</attrdef>
+    </attr>
+  </detailed>
+</eainfo>
+<distinfo>
+  <distrib>
+    <cntinfo>
+      <cntorgp>
+        <cntorg>Alberta Geological Survey</cntorg>
+        <cntper>Publications and Marketing Advisor</cntper>
+      </cntorgp>
+      <cntpos>Publications and Marketing Advisor</cntpos>
+      <cntaddr>
+        <addrtype>mailing and physical</addrtype>
+        <address>Alberta Energy Regulator</address>
+        <address>4th Floor, Twin Atria Building</address>
+        <address>4999-98 Avenue NW</address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <postal>T6B 2X3</postal>
+        <country>Canada</country>
+      </cntaddr>
+      <cntvoice>(780) 422-1927</cntvoice>
+      <cntfax>(780) 422-1918</cntfax>
+      <cntemail>AGS-Info@aer.ca</cntemail>
+      <hours>8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m.</hours>
+    </cntinfo>
+  </distrib>
+  <distliab>The Alberta Energy Regulator/Alberta Geological Survey (AER/AGS) and its employees and contractors make no warranty, guarantee or representation, express or implied, or assume any legal liability regarding the correctness, accuracy, completeness or reliability of this publication. The data are supplied on the understanding that they are for the sole use of the user and will not be redistributed in any form, in whole or in part, to third parties. Any references to proprietary software in our documentation, and/or any use of proprietary data formats in our releases, do not constitute endorsement by the AER/AGS of any manufacturer&apos;s product.</distliab>
+</distinfo>
+<metainfo>
+  <metd>20130626</metd>
+  <metc>
+    <cntinfo>
+      <cntorgp>
+        <cntorg>Alberta Geological Survey</cntorg>
+        <cntper>Publications and Marketing Advisor</cntper>
+      </cntorgp>
+      <cntpos>Publications and Marketing Advisor</cntpos>
+      <cntaddr>
+        <addrtype>mailing and physical</addrtype>
+        <address>Alberta Energy Regulator</address>
+        <address>4th Floor, Twin Atria Building</address>
+        <address>4999-98 Avenue NW</address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <postal>T6B 2X3</postal>
+        <country>Canada</country>
+      </cntaddr>
+      <cntvoice>(780) 422-1927</cntvoice>
+      <cntfax>(780) 422-1918</cntfax>
+      <cntemail>AGS-Info@aer.ca</cntemail>
+      <hours>8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m.</hours>
+    </cntinfo>
+  </metc>
+  <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+  <metstdv>FGDC-STD-001-1998</metstdv>
+  <mettc>local time</mettc>
+  <metac>none</metac>
+  <metuc>none</metuc>
+</metainfo>
+</metadata>

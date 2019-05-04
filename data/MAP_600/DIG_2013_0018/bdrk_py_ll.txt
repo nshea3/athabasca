@@ -1,0 +1,382 @@
+Identification Information: 
+  Citation: 
+    Citation Information: 
+      Originator: Alberta Energy Regulator
+      Originator: Alberta Geological Survey
+      Originator: Prior, G.J.
+      Originator: Hathway, B.
+      Originator: Glombick, P.M.
+      Originator: Pana, D.I.
+      Originator: Banks, C.J.
+      Originator: Hay, D.C.
+      Originator: Schneider, C.L.
+      Originator: Grobe, M.
+      Originator: Elgr, R.
+      Originator: Weiss, J.A.
+      Publication Date: 201306
+      Title: Bedrock Geology of Alberta (GIS data, polygon features)
+      Geospatial Data Presentation Form: vector digital data
+      Series Information: 
+        Series Name: Digital Data
+        Issue Identification: DIG 2013-0018
+      Publication Information: 
+        Publication Place: Edmonton, Alberta, Canada
+        Publisher: Alberta Geological Survey
+      Online Linkage: http://www.ags.gov.ab.ca/publications/DIG/ZIP/DIG_2013_0018.zip
+  Description: 
+    Abstract: This GIS dataset is part of a digital compilation of the bedrock geology of Alberta. It is one of the datasets used to produce Alberta Geological Survey (AGS) Map 600. 
+
+This dataset represents the compilation of existing geological maps and original geological mapping by AGS staff. Mapping in support of the dataset included field observations and creating three-dimensional models of subsurface stratigraphy based on the interpretation of geophysical logs from oil and gas wells. Each three-dimensional formation surface was projected to a model of the bedrock surface, and the intersection formed the first approximation of the position of the geological contact at the base of the surficial deposits. We adjusted these preliminary contacts to honour outcrop data and the interpretation of the bedrock unit immediately below surficial deposits in individual wells.
+
+The data were created in geodatabase format and output for public distribution in shapefile format.
+
+AGS Open File Report 2013-02 presents additional information on data sources related to this dataset.
+    Purpose: To update the bedrock geology of Alberta on a provincial scale and to use this information in a geographic information system.
+    Supplemental Information: Language: In English.
+  Time Period of Content: 
+    Time Period Information: 
+      Range of Dates/Times: 
+        Beginning Date: 2010
+        Ending Date: 20130331
+    Currentness Reference: ground condition
+  Status: 
+    Progress: Complete
+    Maintenance and Update Frequency: None planned
+  Spatial Domain: 
+    Bounding Coordinates: 
+      West Bounding Coordinate: -120
+      East Bounding Coordinate: -110.004765
+      North Bounding Coordinate: 60.000193
+      South Bounding Coordinate: 48.996882
+  Keywords: 
+    Theme: 
+      Theme Keyword Thesaurus: none
+      Theme Keyword: athabasca basin
+      Theme Keyword: battle formation
+      Theme Keyword: bedrock geology
+      Theme Keyword: belly river group
+      Theme Keyword: canadian shield
+      Theme Keyword: colorado group
+      Theme Keyword: devonian
+      Theme Keyword: dunvegan formation
+      Theme Keyword: fort st. john group
+      Theme Keyword: geology
+      Theme Keyword: gis data
+      Theme Keyword: mannville group
+      Theme Keyword: scollard formation
+      Theme Keyword: smoky group
+    Place: 
+      Place Keyword Thesaurus: none
+      Place Keyword: 72e
+      Place Keyword: 72l
+      Place Keyword: 72m
+      Place Keyword: 73d
+      Place Keyword: 73e
+      Place Keyword: 73l
+      Place Keyword: 73m
+      Place Keyword: 74d
+      Place Keyword: 74e
+      Place Keyword: 74l
+      Place Keyword: 74m
+      Place Keyword: 82g
+      Place Keyword: 82h
+      Place Keyword: 82i
+      Place Keyword: 82j
+      Place Keyword: 82n
+      Place Keyword: 82o
+      Place Keyword: 82p
+      Place Keyword: 83a
+      Place Keyword: 83b
+      Place Keyword: 83c
+      Place Keyword: 83d
+      Place Keyword: 83e
+      Place Keyword: 83f
+      Place Keyword: 83g
+      Place Keyword: 83h
+      Place Keyword: 83i
+      Place Keyword: 83j
+      Place Keyword: 83k
+      Place Keyword: 83l
+      Place Keyword: 83m
+      Place Keyword: 83n
+      Place Keyword: 83o
+      Place Keyword: 83p
+      Place Keyword: 84a
+      Place Keyword: 84b
+      Place Keyword: 84c
+      Place Keyword: 84d
+      Place Keyword: 84e
+      Place Keyword: 84f
+      Place Keyword: 84g
+      Place Keyword: 84h
+      Place Keyword: 84i
+      Place Keyword: 84j
+      Place Keyword: 84k
+      Place Keyword: 84l
+      Place Keyword: 84m
+      Place Keyword: 84n
+      Place Keyword: 84o
+      Place Keyword: 84p
+      Place Keyword: alberta
+      Place Keyword: canada
+  Access Constraints: Public
+  Use Constraints: Credit to originator/source required. Commercial reproduction not allowed.
+  Point of Contact: 
+    Contact Information: 
+      Contact Organization Primary: 
+        Contact Organization: Alberta Geological Survey
+        Contact Person: Publications and Marketing Advisor
+      Contact Position: Publications and Marketing Advisor
+      Contact Address: 
+        Address Type: mailing and physical
+        Address: Alberta Energy Regulator
+        Address: 4th Floor, Twin Atria Building
+        Address: 4999-98 Avenue NW
+        City: Edmonton
+        State or Province: Alberta
+        Postal Code: T6B 2X3
+        Country: Canada
+      Contact Voice Telephone: (780) 422-1927
+      Contact Facsimile Telephone: (780) 422-1918
+      Contact Electronic Mail Address: AGS-Info@aer.ca
+      Hours of Service: 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m.
+  Data Set Credit: G.J. Prior and R. Elgr compiled and edited the data for 1 000 000 scale.
+  Cross Reference: 
+    Citation Information: 
+      Originator: Alberta Energy Regulator
+      Originator: Alberta Geological Survey
+      Originator: Prior, G.J.
+      Originator: Hathway, B.
+      Originator: Glombick, P.M.
+      Originator: Pana, D.I.
+      Originator: Banks, C.J.
+      Originator: Hay, D.C.
+      Originator: Schneider, C.L.
+      Originator: Grobe, M.
+      Originator: Elgr, R.
+      Originator: Weiss, J.A.
+      Publication Date: 20130617
+      Title: Bedrock Geology of Alberta
+      Geospatial Data Presentation Form: map
+      Series Information: 
+        Series Name: Map
+        Issue Identification: MAP 600
+      Publication Information: 
+        Publication Place: Edmonton, Alberta, Canada
+        Publisher: Alberta Geological Survey
+      Other Citation Details: Scale 1:1000000, ISBN 978-1-4601-0096-7
+      Online Linkage: http://www.ags.gov.ab.ca/publications
+  Cross Reference: 
+    Citation Information: 
+      Originator: Alberta Energy Regulator
+      Originator: Alberta Geological Survey
+      Originator: Prior, G.J.
+      Originator: Hathway, B.
+      Originator: Glombick, P.M.
+      Originator: Pana, D.I.
+      Originator: Banks, C.J.
+      Originator: Hay, D.C.
+      Originator: Schneider, C.L.
+      Originator: Grobe, M.
+      Originator: Elgr, R.
+      Originator: Weiss, J.A.
+      Publication Date: 201306
+      Title: Bedrock Geology of Alberta (GIS data, line features)
+      Geospatial Data Presentation Form: vector digital data
+      Series Information: 
+        Series Name: Digital Data
+        Issue Identification: DIG 2013-0019
+      Publication Information: 
+        Publication Place: Edmonton, Alberta, Canada
+        Publisher: Alberta Geological Survey
+      Online Linkage: http://www.ags.gov.ab.ca/publications
+  Cross Reference: 
+    Citation Information: 
+      Originator: Alberta Energy Regulator
+      Originator: Alberta Geological Survey
+      Originator: Prior, G.J.
+      Originator: Hathway, B.
+      Originator: Glombick, P.M.
+      Originator: Pana, D.I.
+      Originator: Banks, C.J.
+      Originator: Hay, D.C.
+      Originator: Schneider, C.L.
+      Originator: Grobe, M.
+      Originator: Elgr, R.
+      Originator: Weiss, J.A.
+      Publication Date: 201306
+      Title: Bedrock Geology of Alberta, Structures (GIS data, polygon features)
+      Geospatial Data Presentation Form: vector digital data
+      Series Information: 
+        Series Name: Digital Data
+        Issue Identification: DIG 2013-0020
+      Publication Information: 
+        Publication Place: Edmonton, Alberta, Canada
+        Publisher: Alberta Geological Survey
+      Online Linkage: http://www.ags.gov.ab.ca/publications
+  Cross Reference: 
+    Citation Information: 
+      Originator: Alberta Energy Regulator
+      Originator: Alberta Geological Survey
+      Originator: Prior, G.J.
+      Originator: Hathway, B.
+      Originator: Glombick, P.M.
+      Originator: Pana, D.I.
+      Originator: Banks, C.J.
+      Originator: Hay, D.C.
+      Originator: Schneider, C.L.
+      Originator: Grobe, M.
+      Originator: Elgr, R.
+      Originator: Weiss, J.A.
+      Publication Date: 201306
+      Title: Bedrock Geology of Alberta, Structures (GIS data, line features)
+      Geospatial Data Presentation Form: vector digital data
+      Series Information: 
+        Series Name: Digital Data
+        Issue Identification: DIG 2013-0021
+      Publication Information: 
+        Publication Place: Edmonton, Alberta, Canada
+        Publisher: Alberta Geological Survey
+      Online Linkage: http://www.ags.gov.ab.ca/publications
+  Cross Reference: 
+    Citation Information: 
+      Originator: Alberta Energy Regulator
+      Originator: Alberta Geological Survey
+      Originator: Prior, G.J.
+      Originator: Hathway, B.
+      Originator: Glombick, P.M.
+      Originator: Pana, D.I.
+      Originator: Banks, C.J.
+      Originator: Hay, D.C.
+      Originator: Schneider, C.L.
+      Originator: Grobe, M.
+      Originator: Elgr, R.
+      Originator: Weiss, J.A.
+      Publication Date: 201306
+      Title: Bedrock Geology of Alberta, Meteorite Impact Structures (GIS data, polygon features)
+      Geospatial Data Presentation Form: vector digital data
+      Series Information: 
+        Series Name: Digital Data
+        Issue Identification: DIG 2013-0022
+      Publication Information: 
+        Publication Place: Edmonton, Alberta, Canada
+        Publisher: Alberta Geological Survey
+      Online Linkage: http://www.ags.gov.ab.ca/publications
+Data Quality Information: 
+  Logical Consistency Report: This is a topologically correct dataset. There are no gaps, overlaps, or slivers between separately mapped areas and an effort was made to edge-match adjacent polygons between the source datasets. The level of detail varies across the dataset depending on the detail and scale of the source data used for Alberta Geological Survey Map 600. Some boundaries along river valleys were adjusted to logically follow the river channel.
+  Completeness Report: This dataset represents the compilation of existing geological maps and original geological mapping by Alberta Geological Survey (AGS) staff. The representation of the Canadian Shield and Athabasca Basin is based on compilation. The geology of the Rocky Mountains and the Rocky Mountain Foothills is also the product of compilation with rare instances of new geological interpretation (e.g., the interpretation of bedrock geology beneath drift-filled valleys). The Devonian geology of northeastern Alberta is also largely a product of compilation with some reinterpretation based partly on field observations. The Cretaceous geology of the Plains throughout most of northern and east-central Alberta is based on new geological mapping of the Fort St. John Group, the Dunvegan Formation, the Smoky Group, the Mannville Group, the Colorado Group, and the Belly River Group. In addition, the Battle Formation (Cretaceous) and the Scollard Formation (Cretaceous-Paleogene) are based on new mapping north of Township 17 and east of Range 4, West of the 6th Meridian.
+
+The extents of upland gravel units south of 56° N are based upon GSC Map 22-1967, AGS Open File Report 1994-06, GSC Map NM-12-G, and AGS Map 601.
+
+The extents of upland gravel units north of 56° N (Clear Hills, Halverson Ridge and Caribou Mountains) are based upon field observations by AGS staff in 2011 and 2012.
+  Positional Accuracy: 
+    Horizontal Positional Accuracy: 
+      Horizontal Positional Accuracy Report: We estimate the positional accuracy of the dataset to be better than +/- 2000 m.
+  Lineage: 
+    Process Step: 
+      Process Description: To produce this dataset, we combined digital versions of 117 existing and several newly mapped areas into an Alberta-wide GIS dataset. We processed the data as follows:
+
+1. Collected and assessed input data. This involved collecting datasets from various sources, assessing quality, and standardizing the attribute table in the ArcGIS environment. When necessary, we corrected datasets that were digitized by third parties. 
+2. Created a standard provincial schema to house selected original and new map attributes.
+3. Merged input data into one seamless layer, edge-matched the boundaries.
+4. Generalized the dataset (reducing number of polygons) by eliminating small polygons not applicable to the 1 000 000-scale map and dissolved the boundaries between adjacent polygons representing the same geological unit. 
+5. Ran a topology check on the entire dataset to ensure no gaps, overlaps, slivers, or blank polygons were present.
+      Process Date: 2013
+Spatial Data Organization Information: 
+  Direct Spatial Reference Method: Vector
+  Point and Vector Object Information: 
+    SDTS Terms Description: 
+      SDTS Point and Vector Object Type: G-polygon
+      Point and Vector Object Count: 1175
+Spatial Reference Information: 
+  Horizontal Coordinate System Definition: 
+    Geographic: 
+      Geographic Coordinate Units: Decimal degrees
+      Latitude Resolution: 0.000000
+      Longitude Resolution: 0.000000
+    Geodetic Model: 
+      Horizontal Datum Name: North American Datum of 1983
+      Ellipsoid Name: Geodetic Reference System 80
+      Semi-Major Axis: 6378137.000000
+      Denominator of Flattening Ratio: 298.257222
+Entity and Attribute Information: 
+  Detailed Description: 
+    Entity Type: 
+      Entity Type Label: bdrk_py_ll.dbf
+      Entity Type Definition: Feature attribute table
+      Entity Type Definition Source: Alberta Geological Survey
+    Attribute: 
+      Attribute Label: RGB
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Red, Green, Blue values for the polygon colours
+    Attribute: 
+      Attribute Label: ColorGroup
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Abbreviation for the units occurring in each colour group
+    Attribute: 
+      Attribute Label: Unit_Name
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Map unit name
+    Attribute: 
+      Attribute Label: Lithology
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Primary rock classification of mapped unit
+    Attribute: 
+      Attribute Label: Environ
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Environment in which the geological units were formed
+    Attribute: 
+      Attribute Label: Age
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Abbreviated geological age
+    Attribute: 
+      Attribute Label: GeolRegion
+      Attribute Definition Source: Alberta Geological Survey
+      Attribute Definition: Location within Alberta
+Distribution Information: 
+  Distributor: 
+    Contact Information: 
+      Contact Organization Primary: 
+        Contact Organization: Alberta Geological Survey
+        Contact Person: Publications and Marketing Advisor
+      Contact Position: Publications and Marketing Advisor
+      Contact Address: 
+        Address Type: mailing and physical
+        Address: Alberta Energy Regulator
+        Address: 4th Floor, Twin Atria Building
+        Address: 4999-98 Avenue NW
+        City: Edmonton
+        State or Province: Alberta
+        Postal Code: T6B 2X3
+        Country: Canada
+      Contact Voice Telephone: (780) 422-1927
+      Contact Facsimile Telephone: (780) 422-1918
+      Contact Electronic Mail Address: AGS-Info@aer.ca
+      Hours of Service: 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m.
+  Distribution Liability: The Alberta Energy Regulator/Alberta Geological Survey (AER/AGS) and its employees and contractors make no warranty, guarantee or representation, express or implied, or assume any legal liability regarding the correctness, accuracy, completeness or reliability of this publication. The data are supplied on the understanding that they are for the sole use of the user and will not be redistributed in any form, in whole or in part, to third parties. Any references to proprietary software in our documentation, and/or any use of proprietary data formats in our releases, do not constitute endorsement by the AER/AGS of any manufacturer's product.
+Metadata Reference Information: 
+  Metadata Date: 20130626
+  Metadata Contact: 
+    Contact Information: 
+      Contact Organization Primary: 
+        Contact Organization: Alberta Geological Survey
+        Contact Person: Publications and Marketing Advisor
+      Contact Position: Publications and Marketing Advisor
+      Contact Address: 
+        Address Type: mailing and physical
+        Address: Alberta Energy Regulator
+        Address: 4th Floor, Twin Atria Building
+        Address: 4999-98 Avenue NW
+        City: Edmonton
+        State or Province: Alberta
+        Postal Code: T6B 2X3
+        Country: Canada
+      Contact Voice Telephone: (780) 422-1927
+      Contact Facsimile Telephone: (780) 422-1918
+      Contact Electronic Mail Address: AGS-Info@aer.ca
+      Hours of Service: 8:00 a.m. to 12:00 p.m. and 1:00 p.m. to 4:30 p.m.
+  Metadata Standard Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata Standard Version: FGDC-STD-001-1998
+  Metadata Time Convention: local time
+  Metadata Access Constraints: none
+  Metadata Use Constraints: none
